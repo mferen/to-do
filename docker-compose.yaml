@@ -1,7 +1,7 @@
 services:
   to-doapp:
     container_name: to-do
-    image: to-do:1.0.3
+    image: mferen03/to-do:1.0.3
     ports:
       - 4200:4200
         
